@@ -1,0 +1,63 @@
+body{
+    background-color: white;
+}
+
+.js-clock{
+    color :white;
+    margin-top : 160px;
+    font-size : 50px;
+}
+
+.js-toDoForm{
+    font-size : 20px;
+    text-align: center;
+}
+
+.js-toDoList{
+    marker: none;
+    text-align : center;
+}
+
+
+.btn{
+    cursor : pointer;
+}
+body{
+    color : whitesmoke;
+}
+
+.clicked{
+    color : gray; 
+}
+
+.form,
+.greetings{
+    font-size: 30px;
+    display : none;
+}
+
+.showing{
+    display : block; 
+}
+
+
+@keyframes fadeIn{
+    from{
+        opacity : 0; 
+    }
+    to{
+        opacity : 1;
+    }
+}
+
+.bgImage{
+    position : absolute;
+    top : 0;
+    left : 0;
+    width : 100%;
+    height : 100%;
+    z-index : -1;
+    animation : fadeIn 0.5s linear;
+}
+
+
