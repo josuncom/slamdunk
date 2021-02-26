@@ -18,10 +18,10 @@ function genRandom(){
 }   
 
 
-function init(){
+function init2(){
     const randomNumber = genRandom(); 
     paintImage(randomNumber);
 }
 
 
-init();
+init2();
