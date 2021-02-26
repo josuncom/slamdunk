@@ -11,37 +11,37 @@ const PRO_ARR = [{
   {
       quotation:
     "Never say never, because limits are often just an illusion.",
-    author: "- Michael Jordan"
+    author: "- Michael Jordan -"
   },
   {
       quotation:
       "I can accept failure, everyone fails at something.\n But I can't accept not trying.",
-      author: "- Michael Jordan"
+      author: "- Michael Jordan -"
   },
   {
       quotation:
       "Don't be afraid of failure. This is the way to succeed.",
-      author: "- Lebron James"
+      author: "- Lebron James -"
   },
   {
       quotation:
       "If you're afraid to fail, then you're probably goint to fail.",
-      author: "- Kobe Bryant"
+      author: "- Kobe Bryant -"
   },
   {
       quotation:
       "Success comes after you conquer your biggest obstacles and hurdles.",
-      author: "- Stephen Curry"
+      author: "- Stephen Curry -"
   },
   {
       quotation:
       "The only person who can really motivate you is you.",
-      author: "- Shaquille O'Neal"
+      author: "- Shaquille O'Neal -"
   },
   {
       quotation:
       "We go Norwich.",
-      author: "- Steven Humba Humba"
+      author: "- Steven Humba Humba -"
   }
 ];
 
