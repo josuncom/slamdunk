@@ -6,6 +6,7 @@ body{
     color :white;
     margin-top : 160px;
     font-size : 50px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .js-toDoForm{
@@ -16,8 +17,8 @@ body{
 .js-toDoList{
     marker: none;
     text-align : center;
+    z-index: 1;
 }
-
 
 .btn{
     cursor : pointer;
@@ -32,10 +33,19 @@ body{
 
 .form,
 .greetings{
-    font-size: 30px;
+    font-size: 50px;
     display : none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
 }
 
+.proverb{
+    position: relative;
+    font-size : 20px;
+    font-family:cursive;
+    margin-bottom: none;
+    z-index: 2;
+}
 .showing{
     display : block; 
 }
