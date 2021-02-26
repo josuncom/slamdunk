@@ -56,7 +56,7 @@ function paintImage(imgNumber){
 
 function paintProverb(imgNumber){
     const randomProverb =  PRO_ARR[imgNumber];
-    proverb.innerText = `\n\n${randomProverb.quotation} \n\n${randomProverb.author}`;
+    proverb.innerText = `${randomProverb.quotation} \n\n${randomProverb.author}`;
 }
 
 
