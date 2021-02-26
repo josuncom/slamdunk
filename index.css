@@ -40,12 +40,13 @@ body{
 }
 
 .proverb{
-    position: relative;
-    font-size : 20px;
-    font-family:cursive;
-    margin-bottom: none;
-    z-index: 2;
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-size: 23px;
+    font-family:Arial, Helvetica, sans-serif;
 }
+
 .showing{
     display : block; 
 }
