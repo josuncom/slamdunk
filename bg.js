@@ -72,5 +72,4 @@ function init(){
     paintProverb(randomNumber);
 }
 
-
 init();
